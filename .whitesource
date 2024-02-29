@@ -4,14 +4,7 @@
     "configMode": "LOCAL",
     "enableReachability": true
   },
-  "scanSettingsSAST": {
-    "enableScan": true
-  },
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": false
-    }
+  "checkRunSettings": {
+    "strictMode": "warning"
   }
 }
-
-
